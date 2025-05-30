@@ -8,6 +8,11 @@ import mlflow
 import mlflow.pytorch
 from mlflow.entities import Dataset
 
+# set mlflow tracking URI to local file system
+mlflow.set_tracking_uri("file:///D:/MLOPS%20Learning/mlflow_deepdive/mlruns")
+# set the experiment name
+mlflow.set_experiment("Iris_Classification_Experiment")
+
 
 # Helper function to prepare data
 def prepare_data(df):

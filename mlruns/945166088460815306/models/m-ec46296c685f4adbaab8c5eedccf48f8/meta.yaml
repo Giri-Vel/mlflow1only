@@ -1,0 +1,15 @@
+artifact_location: file:///D:/MLOPS learning/mlflow_deepdive/mlruns/945166088460815306/models/m-ec46296c685f4adbaab8c5eedccf48f8/artifacts
+creation_timestamp: 1748455917840
+experiment_id: '945166088460815306'
+last_updated_timestamp: 1748455931041
+model_id: m-ec46296c685f4adbaab8c5eedccf48f8
+model_type: null
+name: torch-iris-50
+params:
+  activation: ReLU
+  criterion: CrossEntropyLoss
+  n_layers: '3'
+  optimizer: Adam
+source_run_id: dc57615d021b4b9199e1d992f856035c
+status: 2
+status_message: null

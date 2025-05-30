@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS learning/mlflow_deepdive/mlruns/945166088460815306/e9bb71e3c6d94df4a815fc48f83786eb/artifacts
+end_time: 1748458732855
+entry_point_name: ''
+experiment_id: '945166088460815306'
+lifecycle_stage: active
+run_id: e9bb71e3c6d94df4a815fc48f83786eb
+run_name: clean-sponge-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748458517111
+status: 3
+tags: []
+user_id: lenovo

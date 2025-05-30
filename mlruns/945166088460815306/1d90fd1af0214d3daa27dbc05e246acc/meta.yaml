@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS learning/mlflow_deepdive/mlruns/945166088460815306/1d90fd1af0214d3daa27dbc05e246acc/artifacts
+end_time: 1748454663867
+entry_point_name: ''
+experiment_id: '945166088460815306'
+lifecycle_stage: active
+run_id: 1d90fd1af0214d3daa27dbc05e246acc
+run_name: judicious-crow-19
+run_uuid: 1d90fd1af0214d3daa27dbc05e246acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748454642520
+status: 4
+tags: []
+user_id: lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS learning/mlflow_deepdive/mlruns/945166088460815306/dc57615d021b4b9199e1d992f856035c/artifacts
+end_time: 1748455987806
+entry_point_name: ''
+experiment_id: '945166088460815306'
+lifecycle_stage: active
+run_id: dc57615d021b4b9199e1d992f856035c
+run_name: dazzling-chimp-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748455854802
+status: 3
+tags: []
+user_id: lenovo

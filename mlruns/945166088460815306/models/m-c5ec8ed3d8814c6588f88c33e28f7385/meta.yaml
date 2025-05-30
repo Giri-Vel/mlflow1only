@@ -1,0 +1,11 @@
+artifact_location: file:///D:/MLOPS learning/mlflow_deepdive/mlruns/945166088460815306/models/m-c5ec8ed3d8814c6588f88c33e28f7385/artifacts
+creation_timestamp: 1748458535379
+experiment_id: '945166088460815306'
+last_updated_timestamp: 1748458565623
+model_id: m-c5ec8ed3d8814c6588f88c33e28f7385
+model_type: null
+name: torch-iris-0
+params: {}
+source_run_id: e9bb71e3c6d94df4a815fc48f83786eb
+status: 2
+status_message: null

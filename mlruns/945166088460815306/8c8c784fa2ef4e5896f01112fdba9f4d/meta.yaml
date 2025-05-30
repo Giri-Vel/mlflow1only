@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS learning/mlflow_deepdive/mlruns/945166088460815306/8c8c784fa2ef4e5896f01112fdba9f4d/artifacts
+end_time: 1748454943000
+entry_point_name: ''
+experiment_id: '945166088460815306'
+lifecycle_stage: active
+run_id: 8c8c784fa2ef4e5896f01112fdba9f4d
+run_name: upbeat-chimp-774
+run_uuid: 8c8c784fa2ef4e5896f01112fdba9f4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748454914188
+status: 4
+tags: []
+user_id: lenovo

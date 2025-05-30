@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/MLOPS learning/mlflow_deepdive/mlruns/945166088460815306/daeeb8ac3def42a0940250796d572d0f/artifacts
+end_time: 1748455717415
+entry_point_name: ''
+experiment_id: '945166088460815306'
+lifecycle_stage: active
+run_id: daeeb8ac3def42a0940250796d572d0f
+run_name: abundant-deer-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748455711112
+status: 4
+tags: []
+user_id: lenovo

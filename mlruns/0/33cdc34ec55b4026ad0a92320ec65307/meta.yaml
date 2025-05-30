@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/33cdc34ec55b4026ad0a92320ec65307/artifacts
+end_time: 1748454232694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33cdc34ec55b4026ad0a92320ec65307
+run_name: capable-gnat-367
+run_uuid: 33cdc34ec55b4026ad0a92320ec65307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748454193480
+status: 4
+tags: []
+user_id: lenovo

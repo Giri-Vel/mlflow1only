@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLOPS learning/mlflow_deepdive/mlruns/945166088460815306/53b5bff7471a4b3f8c22a42a291bfda7/artifacts
+end_time: 1748454890583
+entry_point_name: ''
+experiment_id: '945166088460815306'
+lifecycle_stage: active
+run_id: 53b5bff7471a4b3f8c22a42a291bfda7
+run_name: persistent-loon-482
+run_uuid: 53b5bff7471a4b3f8c22a42a291bfda7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748454873160
+status: 4
+tags: []
+user_id: lenovo
